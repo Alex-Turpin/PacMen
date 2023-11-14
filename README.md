@@ -14,4 +14,4 @@ Contact me at linkedin.com/in/alexander-turpin-7a71b26b
 I would love to learn how to expand on this project and add ghosts or shapes for PacMen to chase around. 
 
 ## License:
-All files have been provided by MIT xPro and starting code was provided to us. Please see License 
+All files have been provided by MIT xPro and starting code was provided to us. Please see License file for more information. 
